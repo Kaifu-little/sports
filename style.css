@@ -1,0 +1,28 @@
+.sportsout {
+    display: inline-block;
+}
+
+.sport img {
+    cursor: pointer;
+}
+
+.sport hr {
+    margin-bottom: 0.25em;
+}
+
+.modal-content {
+    margin-top: 4em;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.modalp {
+    margin-top: 0.25em;
+}
+
+.modal-body {
+    text-align: center;
+}
+
